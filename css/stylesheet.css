@@ -1,7 +1,7 @@
 body { 
   margin: 0 auto;
   max-width: 50em;
-  font-family: "Helvetica", "Arial", Serif;
+  font-family: "Helvetica", "Arial", "Serif";
   line-height: 1.5;
   padding: 4em 1em;
   color: #555;
